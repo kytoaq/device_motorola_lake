@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lake.mk
+    $(LOCAL_DIR)/aosip_lake.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_lake-eng \
-    lineage_lake-user \
-    lineage_lake-userdebug
+    aosip_lake-eng \
+    aosip_lake-user \
+    aosip_lake-userdebug
